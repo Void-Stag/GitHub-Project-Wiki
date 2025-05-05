@@ -2,27 +2,20 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+## Start your site
 
-```
-$ yarn
-```
+Run the development server:
 
-### Local Development
-
-```
-$ yarn start
+```bash
+cd my-website
+npm run start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
 
-### Build
+The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
 
 ### Deployment
 
