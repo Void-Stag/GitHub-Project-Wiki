@@ -17,3 +17,18 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+indevelopment:
+  label: In-Development
+  permalink: /indevelopment
+  description: Identifies in-progress projects
+
+remakepending:
+  label: Remake Pending
+  permalink: /remakepending
+  description: Identifies projects which will be remade
+
+remake:
+  label: Remake
+  permalink: /remake
+  description: Identifies remade projects
