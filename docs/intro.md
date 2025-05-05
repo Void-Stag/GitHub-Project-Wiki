@@ -4,32 +4,25 @@ sidebar_position: 1
 
 # Project Index
 
-Let's discover **Docusaurus in less than 5 minutes**.
+All the avaliable projects have the following listed on their respective pages:
+  - Repository Link
+  - Programming language & Frameworks
+  - Additional Packages
+  - In-depth explanation of functionality
+  - Project Date
 
-## Getting Started
+Some projects will be labelled with different tags to identify between:
+  - Remake: A project remake utilizing new tools or same tools with refined UI/funtionality.
+  - Remake-pending: A project which will be remade, but has not reached development stage yet.
+  - In Development: An unfinished WIP Project with limited information
 
-Get started by **creating a new site**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### What to know more about this website?
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
+Head over to:
 ```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
+Project Wiki Section
+```
 
 ## Start your site
 
