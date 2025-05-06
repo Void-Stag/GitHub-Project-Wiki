@@ -4,7 +4,7 @@ tags: [indevelopment]
 ---
 <span class="theme-doc-version-badge badge badge--secondary">Project Started: May 2025</span>
 
-# Project Wiki Intro
+# Introduction
 
 This webiste is created utilising:
 - **Docusaurus**
