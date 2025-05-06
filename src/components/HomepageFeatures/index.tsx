@@ -11,32 +11,31 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Full breakdown of my projects',
+    Svg: require('@site/static/img/undraw_creative-flow_t3kz.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Understand the process of each function and request of every project.
+        Resources linked to provide clarity of tool usage.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Constant uploads and editing',
+    Svg: require('@site/static/img/undraw_data-input_whqw.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Content uploaded and updated at a steady pace. Find an issue or error?
+        Drop me an email, specifying issue and page and I'll fix it.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Clean and easy interface',
+    Svg: require('@site/static/img/undraw_vibe-coding_mjme.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Utilising Docusaurus to create a structured and clean Wiki.
       </>
     ),
   },
