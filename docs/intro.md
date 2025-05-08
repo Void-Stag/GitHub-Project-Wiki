@@ -16,7 +16,7 @@ Some projects will be labelled with different tags to identify between:
   - Remake-pending: A project which will be remade, but has not reached development stage yet.
   - In Development: An unfinished WIP Project with limited information
 
-### Unsure what I'm talking about?
+### Unsure what something means?
 
 [Head over to the Glossary](glossary.md)
 

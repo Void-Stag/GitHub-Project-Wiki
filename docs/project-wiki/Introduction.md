@@ -6,7 +6,7 @@ tags: [indevelopment]
 
 # Introduction
 
-This webiste is created utilising:
+This website is created utilising:
 - **Docusaurus**
 - **TypeScript**
 - **MDX**

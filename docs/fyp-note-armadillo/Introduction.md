@@ -6,12 +6,16 @@ tags: [remakepending]
 
 # Introduction
 
-For my Final Year Project @ university, I chose to develop a note taking web app with
-This project utilised:
+For my Final Year Project @ university, I chose to develop a note taking web app with:
 - **Flask**
 - **SQLite**
 - **HTML**
 - **CSS**
 - **Python**
-- **Jinja2 (part of Flask)**
+
+
+As part of the Flask framework, there are several packages utilised to build and bridge the UI and Database together. The most notable packages are:
+- **Jinja2**
+- **Werkzug**
+
 
