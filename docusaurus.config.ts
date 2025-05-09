@@ -75,7 +75,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Void-Stag Wiki',
+          label: 'Repo Docs',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
