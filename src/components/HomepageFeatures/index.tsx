@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Clean and easy interface',
-    Svg: require('@site/static/img/undraw_vibe-coding_mjme.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Utilising Docusaurus to create a structured and clean Wiki.
