@@ -67,8 +67,8 @@ const config: Config = {
     navbar: {
       title: 'Void-Stag Wiki',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Elk Logo',
+        src: 'img/elk-svgrepo-com.svg',
       },
       items: [
         {
