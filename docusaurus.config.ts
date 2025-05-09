@@ -77,7 +77,6 @@ const config: Config = {
           position: 'left',
           label: 'Repo Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/Void-Stag/GitHub-Project-Wiki',
           label: 'GitHub',
