@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'GitHub Project Wiki',
+  title: 'Void-Stag Wiki',
   tagline: 'Dinosaurs are cool, Coding too!',
   favicon: 'img/favicon.ico',
 
@@ -65,7 +65,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'GitHub Project Wiki',
+      title: 'Void-Stag Wiki',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -75,7 +75,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'GitHub Repo Wiki',
+          label: 'Void-Stag Wiki',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -102,7 +102,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} GitHub Project Wiki, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Void-Stag Wiki, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
