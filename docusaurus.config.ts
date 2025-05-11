@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'GitHub Project Wiki',
+  title: 'Void-Stag Wiki',
   tagline: 'Dinosaurs are cool, Coding too!',
   favicon: 'img/favicon.ico',
 
@@ -65,19 +65,18 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'GitHub Project Wiki',
+      title: 'Void-Stag Wiki',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Elk Logo',
+        src: 'img/elk-svgrepo-com.svg',
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Repo Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/Void-Stag/GitHub-Project-Wiki',
           label: 'GitHub',
@@ -89,34 +88,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Reach out',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Email',
+              href: 'heather@heavenly-monkey.com',
             },
             {
               label: 'GitHub',
@@ -125,7 +101,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} GitHub Project Wiki, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Void-Stag Wiki, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
