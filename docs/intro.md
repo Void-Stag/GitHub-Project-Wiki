@@ -24,7 +24,7 @@ Some projects will be labelled with different tags to identify between:
   - In Development: An unfinished WIP Project with limited information
 
 :::tip
-Unsure what something means?
+Unsure what something is?
 
 [Head over to the Glossary](glossary.md)
 
