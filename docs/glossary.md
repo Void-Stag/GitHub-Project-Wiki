@@ -6,6 +6,16 @@ sidebar_position: 2
 
 
 ## Programming Languages
+**C#**:
+
+**CSS**:
+
+**HTML**:
+
+**MDX**:
+
+**Python**:
+
 **TypeScript**: High-level programming language used to develop JavaScript applications
 
   [Offical TypeScript Documentation here](https://www.typescriptlang.org/docs/)
@@ -14,3 +24,4 @@ sidebar_position: 2
 **Flask**:
 
 ## Databases
+**SQLite**:
