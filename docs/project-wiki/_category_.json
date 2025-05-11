@@ -1,8 +1,8 @@
 {
-  "label": "GitHub Wiki",
+  "label": "Python alarm clock",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Learn more about how this wiki website..."
+    "description": "Learn more about how this alarm clock functions."
   }
 }
