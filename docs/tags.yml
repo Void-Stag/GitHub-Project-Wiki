@@ -1,0 +1,21 @@
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+
+indevelopment:
+  label: In-Development
+  permalink: /indevelopment
+  description: Identifies in-progress projects
+
+remakepending:
+  label: Remake Pending
+  permalink: /remakepending
+  description: Identifies projects which will be remade
+
+remake:
+  label: Remake
+  permalink: /remake
+  description: Identifies remade projects

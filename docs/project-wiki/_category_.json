@@ -1,8 +1,8 @@
 {
-  "label": "Project Wiki",
-  "position": 4,
+  "label": "GitHub Wiki",
+  "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "Learn more about this wiki website"
+    "description": "Learn more about how this wiki website.."
   }
 }
