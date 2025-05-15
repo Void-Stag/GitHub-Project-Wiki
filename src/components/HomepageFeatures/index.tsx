@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Content uploaded and updated at a steady pace. Find an issue or error?
-        Drop me an email, specifying issue and page and I'll fix it.
+        Open an issue on the Wiki repo and I'll fix it.
       </>
     ),
   },
