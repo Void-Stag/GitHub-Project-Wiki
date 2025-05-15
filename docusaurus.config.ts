@@ -88,17 +88,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Reach out',
-          items: [
-            {
-              label: 'Email',
-              href: 'heather@heavenly-monkey.com',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/Void-Stag',
-            },
-          ],
+
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Void-Stag Wiki, Inc. Built with Docusaurus.`,
